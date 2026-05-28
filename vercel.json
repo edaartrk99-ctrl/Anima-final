@@ -1,0 +1,13 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": [
+    {
+      "key": "ANTHROPIC_API_KEY",
+      "description": "Claude API Key from Anthropic",
+      "required": true
+    }
+  ]
+}

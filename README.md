@@ -45,4 +45,3 @@ URL'nin Vercel'den geliyor, aç ve test et! 🎉
 ---
 
 **Sorun olursa:** Logs'u kontrol et (Vercel Dashboard → Deployments → Logs)
-
